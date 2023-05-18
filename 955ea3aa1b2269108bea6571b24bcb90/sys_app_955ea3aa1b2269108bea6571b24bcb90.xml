@@ -20,7 +20,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_appcomparete</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>ApplicationCompare V2</short_description>
+        <short_description>ApplicationCompare V2 May18</short_description>
         <source>x_snc_appcomparete</source>
         <store_correlation_id/>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-05 06:28:27</sys_created_on>
         <sys_id>955ea3aa1b2269108bea6571b24bcb90</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-05 06:36:14</sys_updated_on>
+        <sys_updated_on>2023-05-18 02:41:54</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
